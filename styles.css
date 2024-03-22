@@ -52,7 +52,7 @@ table, tr, th, td {
     color: white;
     font-weight: 600;
     text-align: center;
-    font-size: 50px;
+    font-size: 4vw;
     size: 150px;
 }
 .nav {
@@ -67,11 +67,11 @@ table, tr, th, td {
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 20px 20px;
+    padding: 1vw 1vw;
     text-decoration: underline white;
-    font-size: 50px;
+    font-size: 4vh;
     font-weight: 600;
-    border-radius: 100px;
+    border-radius: 4vw;
     transition: 0.2s;
 }
 .nav a:hover {
