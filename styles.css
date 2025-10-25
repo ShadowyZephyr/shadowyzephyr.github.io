@@ -48,7 +48,7 @@ table, tr, th, td {
     height: 144px;
 }
 .top h1 {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Roboto', sans-serif;
     color: white;
     font-weight: 600;
     text-align: center;
@@ -61,7 +61,7 @@ table, tr, th, td {
     text-align: center;
 }
 .nav a {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Roboto', sans-serif;
     left: 50%;
     color: #cccccc;
     text-align: center;
